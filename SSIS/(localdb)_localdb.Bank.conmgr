@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="(localdb)_localdb.Bank"
+  DTS:DTSID="{A1145729-E510-4AFE-8466-D172F29028ED}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=(localdb)\localdb;Initial Catalog=Bank;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-SSIS-{A1145729-E510-4AFE-8466-D172F29028ED}(localdb)\localdb.Bank;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

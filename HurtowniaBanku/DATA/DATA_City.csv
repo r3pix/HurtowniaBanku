@@ -1,0 +1,201 @@
+Id,Name,CountryId
+1,Guankou,10
+2,Kaducondong,8
+3,Dollard-Des Ormeaux,1
+4,Dongba,1
+5,Khallat Şāliḩ,1
+6,Xinzha,9
+7,Karafao,10
+8,Prostřední Bečva,4
+9,Cerrito,6
+10,Navan,1
+11,Prelog,8
+12,Pentre,7
+13,Āsmār,3
+14,Göteborg,1
+15,Nancun,8
+16,Bojonglarang,3
+17,Boketu,3
+18,Al Bilād,9
+19,Vinha,8
+20,Caracal,7
+21,Bofuer,8
+22,Koniaków,8
+23,Kizel,2
+24,Verkhniy Avzyan,7
+25,Meghrashen,4
+26,Dos Quebradas,2
+27,Yukou,8
+28,Linjiang,1
+29,Sibucao,7
+30,Pawili,6
+31,Sambonggede,4
+32,Shu,7
+33,Chicheng,3
+34,Jangkat,3
+35,Yuyapichis,3
+36,Sangke,10
+37,Pasirmadang,3
+38,Máncora,1
+39,Toulouse,8
+40,Suzëmka,4
+41,Shajia’ao,8
+42,Xianrendu,6
+43,Matamey,4
+44,Pasirgaru,7
+45,Huhe,1
+46,Shuitou,10
+47,Moose Jaw,9
+48,Muang Phôn-Hông,4
+49,Guane,9
+50,Houston,9
+51,Oslo,7
+52,Suzdal’,8
+53,Sadská,1
+54,São João Nepomuceno,10
+55,Malaba,8
+56,Bartošovice,6
+57,Kommunisticheskiy,6
+58,Núi Sập,8
+59,Aldeias de Cima,5
+60,Kembangkerang Lauk Timur,8
+61,Sydney,3
+62,Partenit,4
+63,Mosul,5
+64,Hexi,1
+65,Santa Fe,7
+66,Bom Despacho,7
+67,Puerto Deseado,5
+68,San Juan,6
+69,Milano,8
+70,Jiyizhuang,3
+71,Tiehe,8
+72,Qiancang,8
+73,Plumtree,7
+74,Szamotuły,1
+75,Camp Thorel,5
+76,Bueng Khong Long,1
+77,Penápolis,5
+78,Sangkalputung,2
+79,Pagelaran,6
+80,Rayevskaya,10
+81,Pimentel,7
+82,Gulai,10
+83,Georgetown,7
+84,Zhongxing,4
+85,Pasłęk,10
+86,Chejiazhuang,6
+87,Toulon,9
+88,Guyangan,5
+89,Pinhal de Frades,4
+90,Rubiataba,5
+91,Babao,10
+92,Tours,3
+93,Kétou,9
+94,Nasilava,6
+95,Folques,6
+96,Starcevica,8
+97,Shuigou,10
+98,Gaizhou,4
+99,Taihe Chengguanzhen,8
+100,Shuangnian,2
+101,Pingyi,7
+102,Stockholm,10
+103,Belgorod,3
+104,Guitang,6
+105,Rodionovo-Nesvetaiskoye,3
+106,Solna,2
+107,San Francisco Zapotitlán,6
+108,Banyuurip,2
+109,Dongtou,3
+110,Nuevitas,10
+111,Lorraine,4
+112,Železná Ruda,8
+113,Finspång,8
+114,Abricots,8
+115,Sison,4
+116,Cinyawang,6
+117,Unión,9
+118,Shitan,4
+119,Salaš Crnobarski,4
+120,Paitan Este,2
+121,Pozo Hondo,8
+122,Otun,7
+123,Ciego de Ávila,7
+124,Zgłobień,4
+125,Kanye,9
+126,Neópolis,2
+127,Clodomira,9
+128,Sukamaju,7
+129,Galamares,6
+130,Yihe,4
+131,Nordeste,9
+132,Warungpeuteuy,9
+133,La Virginia,10
+134,Rio Covo ( Santa Eulália ),8
+135,Liangshuihe,4
+136,Bến Cầu,5
+137,Acli,6
+138,Bozoum,8
+139,Mexico,7
+140,Ferdinandovac,3
+141,Esperanza,9
+142,Azurva,10
+143,Sionogan,7
+144,Catalão,2
+145,Venilale,3
+146,Nové Město nad Metují,1
+147,Slobodnica,9
+148,Algarrobo,2
+149,Dubrovka,8
+150,Héroumbili,1
+151,Hollola,6
+152,Hongtang,4
+153,Siheyuan,10
+154,Bollnäs,5
+155,Stockholm,1
+156,Cashel,8
+157,Ciherang,2
+158,Bombon,10
+159,Mahates,8
+160,Lipa City,10
+161,La Rochelle,7
+162,Lorient,1
+163,Xiping,7
+164,Cipanjang,3
+165,Piquete,5
+166,Gutian,1
+167,Phú Khương,1
+168,Emiliano Zapata,5
+169,Gaoyan,3
+170,Niafunké,8
+171,Irasan,1
+172,Nageswari,1
+173,Shengao,1
+174,Kiên Lương,3
+175,Al ‘Anān,10
+176,Cibenda,4
+177,Jose Maria Morelos,1
+178,Bulog,4
+179,Paucar,3
+180,Łukowa,7
+181,Banjar Swastika,6
+182,Janowice,10
+183,Kachar,9
+184,Steblevë,3
+185,Termas de Río Hondo,6
+186,Santa,6
+187,Condoroma,9
+188,Akademija (Kaunas),2
+189,Biga,8
+190,Mutsu,6
+191,Zhangjiafan,10
+192,Nakhon Chai Si,7
+193,Torrance,6
+194,Olofström,10
+195,Sviblovo,6
+196,Ipoh,7
+197,Tandzut,10
+198,Jepara,5
+199,Libice nad Cidlinou,4
+200,Aţ Ţaybah,7

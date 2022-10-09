@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="9e939c15-32e3-4823-b537-3f462ee69a67" ChangeDateTime="10/08/2022 21:28:19">
+    <Property Name="ElementName" Value="[dbo].[FK_City_]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[City]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_City_Country]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="0a06a00d-9196-490e-800e-f5f4759adce9" ChangeDateTime="10/08/2022 21:30:37">
+    <Property Name="ElementName" Value="[dbo].[Address].[CItyID]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Address]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="CItyId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="d69a612b-6d50-498f-836c-912e5b1cdd3a" ChangeDateTime="10/08/2022 21:32:03">
+    <Property Name="ElementName" Value="[dbo].[Address].[CItyId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Address]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="CityId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="28eb63da-81f3-44aa-b547-9dc4517bad4d" ChangeDateTime="10/08/2022 21:34:15">
+    <Property Name="ElementName" Value="[dbo].[FK_BankDepartment_ToTable]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[BankDepartment]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_BankDepartment_Address]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="7d385662-07be-4caa-9a1d-275359a38504" ChangeDateTime="10/08/2022 21:34:28">
+    <Property Name="ElementName" Value="[dbo].[FK_BankDepartment_ToTable_1]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[BankDepartment]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_BankDepartment_Instance]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="0a741f41-764e-4ee1-85eb-7f2e0d7966d0" ChangeDateTime="10/08/2022 21:34:34">
+    <Property Name="ElementName" Value="[dbo].[BankDepartment].[InstanceId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[BankDepartment]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="BankInstanceId" />
+  </Operation>
+</Operations>

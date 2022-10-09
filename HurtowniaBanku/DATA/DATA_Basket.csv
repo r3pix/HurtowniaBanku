@@ -1,0 +1,5 @@
+Id,Name,Definition
+1,Klient biedny,Majątek < 10000
+2,Klient średnio zamożny, Majątek >= 10000 i Majątek < 20000
+3,Klient bogaty, Majątek >= 20000
+4,Klient poza rankingiem, brak

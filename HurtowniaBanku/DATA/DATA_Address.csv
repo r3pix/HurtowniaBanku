@@ -1,0 +1,401 @@
+Id,Street,No,CityId
+1,Bunting,47,132
+2,Monument,8,123
+3,Kingsford,7,184
+4,Mosinee,785,183
+5,Spaight,85885,166
+6,La Follette,93497,199
+7,Spenser,0749,9
+8,Granby,75915,61
+9,Eagle Crest,07,89
+10,Nelson,072,66
+11,Arkansas,0,65
+12,Jana,60,198
+13,Ruskin,29616,68
+14,Bultman,30,93
+15,Division,29744,23
+16,Michigan,619,110
+17,Clarendon,746,73
+18,Truax,5,197
+19,Caliangt,222,98
+20,Spohn,17,146
+21,Talisman,5,71
+22,Swallow,3229,192
+23,Hooker,36,125
+24,Division,7,114
+25,Kropf,8,100
+26,Gateway,513,176
+27,Artisan,605,160
+28,Nevada,257,110
+29,Ohio,13656,80
+30,Del Sol,80354,107
+31,Glendale,811,153
+32,Anzinger,439,190
+33,Jackson,11737,92
+34,Weeping Birch,88,14
+35,Veith,4,188
+36,Portage,33,40
+37,Scoville,4,2
+38,Lawn,12135,15
+39,Daystar,479,99
+40,Garrison,26158,98
+41,Hallows,61,96
+42,Laurel,411,9
+43,Sunfield,20,134
+44,Eliot,0224,173
+45,Lien,43,86
+46,Stuart,2,2
+47,Merrick,2481,84
+48,Boyd,563,124
+49,Mccormick,42,91
+50,Warner,39,8
+51,Montana,93413,89
+52,4th,06,175
+53,5th,59,97
+54,La Follette,2315,86
+55,Merchant,6,31
+56,Village,19,56
+57,Shopko,7,121
+58,Parkside,0025,84
+59,Melody,27,2
+60,Katie,005,109
+61,Sachs,964,125
+62,Comanche,0,71
+63,Atwood,2,157
+64,Hintze,40,92
+65,Clove,7628,17
+66,Burning Wood,4445,117
+67,Columbus,5548,127
+68,Hanson,0,125
+69,Coleman,4230,163
+70,Glacier Hill,57368,43
+71,High Crossing,38543,48
+72,Prairieview,3,193
+73,Vidon,792,178
+74,Holy Cross,7481,115
+75,Main,84,61
+76,Rowland,9,97
+77,Portage,1,190
+78,Blaine,35198,70
+79,Sullivan,97,153
+80,Old Gate,2,194
+81,Thierer,59566,72
+82,Havey,8,5
+83,Cherokee,295,55
+84,Southridge,5,115
+85,Vernon,6,66
+86,Cody,40,24
+87,Towne,2,140
+88,Maryland,7,48
+89,Manley,96,25
+90,Gina,46485,58
+91,Barnett,78612,133
+92,South,736,77
+93,Acker,91701,131
+94,Coolidge,940,39
+95,Mcguire,7,101
+96,Express,72562,77
+97,Clyde Gallagher,4580,94
+98,Service,0,111
+99,Express,130,1
+100,Butternut,0045,60
+101,Steensland,3,105
+102,Graceland,0289,39
+103,Oneill,0871,81
+104,Atwood,95569,157
+105,Delaware,5303,97
+106,Cambridge,8962,191
+107,8th,0,146
+108,Kennedy,7,37
+109,Alpine,94,22
+110,Sunfield,0119,94
+111,Drewry,3486,78
+112,Hansons,578,71
+113,Barby,2248,159
+114,Darwin,5651,15
+115,Columbus,25306,50
+116,Northland,1988,52
+117,Walton,2,180
+118,Colorado,93180,171
+119,Hauk,6419,120
+120,Lotheville,38117,139
+121,Heffernan,8,187
+122,Prentice,8934,32
+123,Doe Crossing,82,58
+124,Paget,3262,166
+125,Russell,304,54
+126,Hallows,7,65
+127,Claremont,7,79
+128,Donald,369,82
+129,Armistice,66,8
+130,Forest Run,0,163
+131,Westport,63392,11
+132,New Castle,89,64
+133,Nevada,80371,24
+134,1st,40679,36
+135,West,2,7
+136,Hallows,197,149
+137,Sunnyside,2,139
+138,Dakota,85271,125
+139,Fisk,00472,130
+140,Fisk,36,137
+141,Caliangt,63590,37
+142,Southridge,9262,136
+143,Marcy,90,91
+144,Coolidge,82,79
+145,Emmet,17814,178
+146,Springs,239,84
+147,Mccormick,96,158
+148,Clemons,35744,198
+149,Prairieview,24309,73
+150,Gina,82,32
+151,Sunfield,286,52
+152,Nobel,59230,9
+153,Kinsman,12915,155
+154,Little Fleur,8648,91
+155,Bultman,2,102
+156,Nancy,16,57
+157,Continental,3906,57
+158,Maryland,617,124
+159,Lunder,57164,156
+160,Anthes,3,133
+161,Blue Bill Park,53179,126
+162,Dryden,6649,143
+163,Riverside,1765,45
+164,Kropf,580,124
+165,Ryan,5,112
+166,Arrowood,66,41
+167,Kedzie,3,64
+168,Old Gate,6560,111
+169,Walton,73,140
+170,Longview,72767,2
+171,Butterfield,1,85
+172,Hayes,8273,136
+173,Mifflin,0310,162
+174,Londonderry,652,96
+175,Nelson,65,177
+176,Springs,21,184
+177,Mifflin,84,40
+178,Jackson,2,38
+179,Fairfield,4,110
+180,Fair Oaks,011,103
+181,Oneill,36413,76
+182,Division,86562,29
+183,Crescent Oaks,811,80
+184,Butterfield,70311,145
+185,Thierer,26999,142
+186,Sloan,07117,64
+187,Homewood,5,152
+188,Carioca,68934,20
+189,Luster,0,154
+190,Ilene,998,14
+191,Carioca,528,151
+192,Packers,90,55
+193,Burning Wood,82,75
+194,Anzinger,07622,145
+195,Sherman,8973,170
+196,Carioca,473,2
+197,Eagle Crest,0748,26
+198,Knutson,0606,58
+199,Monterey,2214,89
+200,Mockingbird,62,100
+201,Bashford,6,12
+202,Carberry,70,143
+203,Montana,9,180
+204,Haas,80,104
+205,Chinook,11,61
+206,North,344,57
+207,Bartelt,03,135
+208,Warner,44888,85
+209,Red Cloud,555,107
+210,Old Gate,41468,151
+211,Dakota,20,116
+212,Reinke,53,59
+213,Clemons,492,33
+214,Summit,1,56
+215,Florence,06,50
+216,Macpherson,69,87
+217,Hansons,319,120
+218,East,2109,177
+219,Hayes,0062,36
+220,Express,84,126
+221,Derek,824,11
+222,Dwight,386,137
+223,Golf Course,928,34
+224,Eggendart,3,91
+225,Lake View,922,157
+226,Nobel,8300,98
+227,Debs,7488,91
+228,Vermont,397,121
+229,Dapin,8,72
+230,Shasta,33,26
+231,Toban,1585,114
+232,Pennsylvania,2959,170
+233,Washington,704,111
+234,Rutledge,4798,54
+235,Crest Line,805,47
+236,Iowa,1,171
+237,Continental,873,150
+238,Autumn Leaf,4963,163
+239,Forest Dale,161,40
+240,Shelley,6,131
+241,Logan,09,129
+242,Red Cloud,67,150
+243,Buhler,6,50
+244,Anderson,3,138
+245,Spaight,9,78
+246,Meadow Valley,14,139
+247,Leroy,792,133
+248,Gateway,4586,176
+249,Reindahl,96203,32
+250,Anzinger,6,151
+251,6th,95845,42
+252,Pankratz,4318,79
+253,Commercial,0593,32
+254,Forest Run,9312,70
+255,Hooker,64718,5
+256,Killdeer,9,7
+257,Continental,6,179
+258,Leroy,8434,85
+259,Mockingbird,66,185
+260,John Wall,430,1
+261,Norway Maple,95588,100
+262,Golf View,82433,72
+263,Lotheville,8490,18
+264,Anhalt,761,81
+265,Schiller,3537,193
+266,Springview,7434,47
+267,Buell,48,134
+268,Banding,5345,11
+269,Fremont,79507,38
+270,Manufacturers,43,198
+271,Fair Oaks,95,56
+272,Dahle,25,39
+273,Nevada,756,197
+274,Sutteridge,36,94
+275,International,5,173
+276,Morrow,79,72
+277,Tennessee,5,3
+278,Eagle Crest,50,24
+279,Manufacturers,414,18
+280,Waywood,166,138
+281,Rieder,539,137
+282,Clemons,5466,116
+283,5th,8142,198
+284,Manley,5,83
+285,Northwestern,02312,6
+286,Kensington,4,187
+287,Kinsman,1,11
+288,Dakota,04,9
+289,Karstens,32,62
+290,Upham,3,138
+291,Johnson,8,189
+292,Lakeland,56543,24
+293,Longview,416,173
+294,Division,913,127
+295,Leroy,0,196
+296,Miller,7,121
+297,Dixon,5302,73
+298,Eagle Crest,49,28
+299,Mesta,414,37
+300,Larry,1352,150
+301,Oakridge,176,170
+302,Kenwood,464,31
+303,Red Cloud,9710,68
+304,6th,314,16
+305,Dryden,899,16
+306,Weeping Birch,9,29
+307,Loftsgordon,0,42
+308,Grover,6,145
+309,Sunbrook,2,29
+310,Hayes,561,99
+311,Village Green,17737,119
+312,Trailsway,5452,164
+313,Gulseth,10,65
+314,Ludington,7,197
+315,Washington,866,48
+316,Lakewood,804,163
+317,Kim,51094,53
+318,Sheridan,9247,117
+319,Hermina,1,119
+320,Veith,6,196
+321,Commercial,63052,12
+322,Tennyson,565,107
+323,Magdeline,49790,17
+324,Walton,0,76
+325,Randy,37,170
+326,Westend,31,15
+327,Schmedeman,1247,74
+328,Southridge,79,107
+329,Gale,624,148
+330,Grover,35231,13
+331,Atwood,841,115
+332,Rigney,3,31
+333,John Wall,6124,156
+334,Sherman,076,120
+335,Algoma,8669,125
+336,Arkansas,989,52
+337,Tony,4,89
+338,Thackeray,71,144
+339,Anzinger,9,142
+340,Browning,8722,139
+341,Arapahoe,011,26
+342,Sunbrook,2604,67
+343,Clyde Gallagher,3,152
+344,7th,63,132
+345,Cardinal,406,55
+346,Continental,75,164
+347,Sycamore,06360,132
+348,Harper,966,35
+349,Kings,8499,28
+350,Main,09496,7
+351,Main,7,197
+352,Sherman,83,154
+353,Rutledge,0,178
+354,Ramsey,9903,117
+355,Onsgard,91671,42
+356,Farmco,94,19
+357,Lillian,95357,155
+358,Shopko,6,116
+359,Moland,8842,119
+360,Holmberg,75,90
+361,Blackbird,7,1
+362,Erie,5984,122
+363,Norway Maple,0196,12
+364,Arrowood,754,105
+365,Ilene,94063,35
+366,Crescent Oaks,51,121
+367,Tony,559,167
+368,Park Meadow,9,106
+369,Cherokee,63509,25
+370,Service,0,75
+371,Lerdahl,8,199
+372,Old Shore,9,46
+373,Nelson,0919,153
+374,Fordem,241,179
+375,Logan,64,16
+376,Valley Edge,36927,70
+377,Linden,895,170
+378,Arizona,62558,61
+379,Caliangt,7,25
+380,Claremont,2,5
+381,Warner,558,140
+382,Larry,45,126
+383,Esch,81327,8
+384,Artisan,072,10
+385,Maple Wood,63,40
+386,Di Loreto,44891,132
+387,Burrows,1270,159
+388,Merchant,69,5
+389,Hoffman,4643,16
+390,Helena,15874,57
+391,Pine View,04002,89
+392,Nevada,309,164
+393,Barnett,6996,15
+394,Scott,871,42
+395,Kinsman,60,72
+396,Armistice,42,50
+397,Del Mar,01057,196
+398,Mandrake,7,187
+399,Golf Course,99831,184
+400,Vermont,16,40

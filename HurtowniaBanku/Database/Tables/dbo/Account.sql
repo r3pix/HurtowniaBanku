@@ -4,5 +4,7 @@
     [No] VARCHAR(50) NOT NULL, 
     [Type] CHAR(1) NOT NULL, 
     [ClientId] INT NOT NULL, 
-    CONSTRAINT [FK_Account_Client] FOREIGN KEY ([ClientId]) REFERENCES [Client]([Id])
+    [AccountTypeId] INT NOT NULL, 
+    CONSTRAINT [FK_Account_Client] FOREIGN KEY ([ClientId]) REFERENCES [Client]([Id]),
+    CONSTRAINT [FK_Account_AccountType] FOREIGN KEY ([AccountTypeId]) REFERENCES [AccountType]([Id])
 )

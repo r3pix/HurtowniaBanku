@@ -77,6 +77,8 @@
     <Build Include="Database\Tables\dbo\Account.sql" />
     <Build Include="Database\Tables\dbo\Transaction.sql" />
     <Build Include="Database\Stored Procedures\Anonimize.sql" />
+    <Build Include="Database\Tables\dbo\AccountType.sql" />
+    <Build Include="Database\Tables\dbo\ClientType.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="HurtowniaBanku.refactorlog" />

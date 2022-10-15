@@ -95,5 +95,7 @@
     <None Include="DATA\DATA_Currency.csv" />
     <None Include="DATA\DATA_Timeframe.csv" />
     <None Include="DATA\DATA_Transaction.csv" />
+    <None Include="DATA\DATA_AccountType.csv" />
+    <None Include="DATA\DATA_ClientType.csv" />
   </ItemGroup>
 </Project>

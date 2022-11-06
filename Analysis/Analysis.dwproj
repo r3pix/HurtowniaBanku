@@ -6,10 +6,71 @@
     <Name>Analysis.database</Name>
     <FullPath>Analysis.database</FullPath>
   </Database>
+  <Cubes>
+    <ProjectItem>
+      <Name>Bank.cube</Name>
+      <FullPath>Bank.cube</FullPath>
+      <Dependencies>
+        <ProjectItem>
+          <Name>Bank.partitions</Name>
+          <FullPath>Bank.partitions</FullPath>
+        </ProjectItem>
+      </Dependencies>
+    </ProjectItem>
+  </Cubes>
+  <Dimensions>
+    <ProjectItem>
+      <Name>Account.dim</Name>
+      <FullPath>Account.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Time Frame.dim</Name>
+      <FullPath>Time Frame.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Bank Department.dim</Name>
+      <FullPath>Bank Department.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Currency.dim</Name>
+      <FullPath>Currency.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Transaction.dim</Name>
+      <FullPath>Transaction.dim</FullPath>
+    </ProjectItem>
+  </Dimensions>
+  <DataSources>
+    <ProjectItem>
+      <Name>Bank.ds</Name>
+      <FullPath>Bank.ds</FullPath>
+    </ProjectItem>
+  </DataSources>
+  <DataSourceViews>
+    <ProjectItem>
+      <Name>Bank.dsv</Name>
+      <FullPath>Bank.dsv</FullPath>
+    </ProjectItem>
+  </DataSourceViews>
   <Configurations>
     <Configuration>
       <Name>Development</Name>
-      <Options />
+      <Options>
+        <ConnectionMappings>
+          <ConfigurationSetting>
+            <Id>Bank</Id>
+            <Name>Bank</Name>
+            <Value xsi:type="xsd:string">Provider=SQLNCLI11.1;Data Source=localhost;Integrated Security=SSPI;Initial Catalog=Bank</Value>
+          </ConfigurationSetting>
+        </ConnectionMappings>
+        <ConnectionSecurityMappings>
+          <ConfigurationSetting>
+            <Id>Bank</Id>
+            <Name>Bank</Name>
+            <Value xsi:type="xsd:int">0</Value>
+          </ConfigurationSetting>
+        </ConnectionSecurityMappings>
+      </Options>
     </Configuration>
   </Configurations>
 </Project>

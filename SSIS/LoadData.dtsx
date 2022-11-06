@@ -7,12 +7,12 @@
   DTS:CreatorName="R3pix-PC\Piotr Nowek"
   DTS:DTSID="{82A9D84B-57E3-4CAF-8574-F40FA96C808F}"
   DTS:ExecutableType="Microsoft.Package"
-  DTS:LastModifiedProductVersion="16.0.845.0"
+  DTS:LastModifiedProductVersion="16.0.948.0"
   DTS:LocaleID="1045"
   DTS:ObjectName="Package1"
   DTS:PackageType="5"
-  DTS:VersionBuild="26"
-  DTS:VersionGUID="{913A0454-B02A-4E88-A06C-B2E1601CA8AA}">
+  DTS:VersionBuild="28"
+  DTS:VersionGUID="{806E5022-215C-4572-A117-86F265232483}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,8 +29,8 @@
           DTS:ColumnNamesInFirstDataRow="True"
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
-          DTS:CodePage="1252"
-          DTS:ConnectionString="C:\Users\Piotr Nowek\Documents\DATA\DATA_Accounts.csv">
+          DTS:CodePage="1250"
+          DTS:ConnectionString="C:\Users\Piotr\Documents\DATA\DATA_Accounts.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -39,7 +39,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Id"
-              DTS:DTSID="{648E5144-C870-4902-B2FA-4AE77C4AE17D}"
+              DTS:DTSID="{9E7944AC-AA90-4E29-ACE7-D81C11F3E2F2}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -48,7 +48,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="No"
-              DTS:DTSID="{2FB65BC1-D56F-482B-BEBC-DA763E85EB7D}"
+              DTS:DTSID="{239EAF94-7582-4730-AA25-445A496F5CD3}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -57,7 +57,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="ClientId"
-              DTS:DTSID="{508FB31C-C322-49EA-8D20-6B0079D396BD}"
+              DTS:DTSID="{84D39286-69EE-4DF2-9E5F-9463E19D8B3E}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -66,7 +66,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="AccountTypeId"
-              DTS:DTSID="{525C342B-8A7C-4FE2-BB1D-D48A2AB79A09}"
+              DTS:DTSID="{64B53E61-E0B3-49EB-BCDE-6F2ADC087D47}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -85,8 +85,8 @@
           DTS:ColumnNamesInFirstDataRow="True"
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
-          DTS:CodePage="1252"
-          DTS:ConnectionString="C:\Users\Piotr Nowek\Documents\DATA\DATA_AccountType.csv">
+          DTS:CodePage="1250"
+          DTS:ConnectionString="C:\Users\Piotr\Documents\DATA\DATA_AccountType.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -95,7 +95,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Id"
-              DTS:DTSID="{EF1A8CEC-0A45-4D73-88AB-5B763DBA62D4}"
+              DTS:DTSID="{30F8CA7E-3852-4A35-B07D-0C81D26AC2B7}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -104,7 +104,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Name"
-              DTS:DTSID="{09355BE8-586C-45D8-B45F-D9EDF6E405EA}"
+              DTS:DTSID="{E866B09B-9DD6-4DB6-93C4-26E70E16116B}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -113,7 +113,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Shortcut"
-              DTS:DTSID="{3DAA2599-768C-4389-8F76-2A1F1768EAA4}"
+              DTS:DTSID="{2084717B-CC1B-403E-9293-ED94555D2174}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -132,8 +132,8 @@
           DTS:ColumnNamesInFirstDataRow="True"
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
-          DTS:CodePage="1252"
-          DTS:ConnectionString="C:\Users\Piotr Nowek\Documents\DATA\DATA_Address.csv">
+          DTS:CodePage="1250"
+          DTS:ConnectionString="C:\Users\Piotr\Documents\DATA\DATA_Address.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -142,7 +142,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Id"
-              DTS:DTSID="{E563AEFB-866D-408C-BC20-DA9BBCEC2AC7}"
+              DTS:DTSID="{33A1BFCD-10BA-4212-8F96-9DFAB5E4ED34}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -151,7 +151,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Street"
-              DTS:DTSID="{129EBB05-CD2E-4961-A978-39F0D4BBCDD7}"
+              DTS:DTSID="{9D468040-A5FE-4FD1-87F5-BDF7AA668742}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -160,7 +160,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="No"
-              DTS:DTSID="{4F00C587-2139-4B55-BC9B-438127A46200}"
+              DTS:DTSID="{2439F17F-EAC1-4BB0-BF7D-3A4C475A8E7E}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -169,7 +169,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="CityId"
-              DTS:DTSID="{A0BC7450-9670-4552-8BB7-464FDBDA07C0}"
+              DTS:DTSID="{5BC47981-97AF-48F4-88D5-D7A22EC77479}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -188,8 +188,8 @@
           DTS:ColumnNamesInFirstDataRow="True"
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
-          DTS:CodePage="1252"
-          DTS:ConnectionString="C:\Users\Piotr Nowek\Documents\DATA\DATA_BankDepartment.csv">
+          DTS:CodePage="1250"
+          DTS:ConnectionString="C:\Users\Piotr\Documents\DATA\DATA_BankDepartment.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -198,7 +198,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Id"
-              DTS:DTSID="{525025A6-4714-4E11-9BA1-0FF6F2C75420}"
+              DTS:DTSID="{4ECD8433-5CC6-4399-96DC-BFDAB0D834CD}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -207,7 +207,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Name"
-              DTS:DTSID="{EEA37D9B-3F99-4F16-AB68-4F7C3F2EDABB}"
+              DTS:DTSID="{8B50363B-339D-41C6-B2ED-DBD710072E68}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -216,7 +216,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="AddressId"
-              DTS:DTSID="{433412D7-3582-42A6-AD5F-4818C2378828}"
+              DTS:DTSID="{94BCD3BD-D354-49E6-8E29-29DF4DB64B40}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -225,7 +225,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="BankInstanceId"
-              DTS:DTSID="{80EAFE6F-7470-4409-B2CD-DE0A560BE1B5}"
+              DTS:DTSID="{22C31B83-CB49-4B78-83E8-57EE6FEE01E2}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -244,8 +244,8 @@
           DTS:ColumnNamesInFirstDataRow="True"
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
-          DTS:CodePage="1252"
-          DTS:ConnectionString="C:\Users\Piotr Nowek\Documents\DATA\DATA_BankInstance.csv">
+          DTS:CodePage="1250"
+          DTS:ConnectionString="C:\Users\Piotr\Documents\DATA\DATA_BankInstance.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -254,7 +254,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Id"
-              DTS:DTSID="{AAF2B49E-3E1F-410E-872F-2C30AFB5955D}"
+              DTS:DTSID="{FA3B6D75-B250-4110-B7A4-44A73C13FFF1}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -263,7 +263,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Name"
-              DTS:DTSID="{B170BFFC-D624-43E5-9AA3-CA803BA0108D}"
+              DTS:DTSID="{EBF9A6DD-E37B-42FC-809B-47B638358BF4}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -272,7 +272,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="PermissionNo"
-              DTS:DTSID="{0FBB1D1A-9CD9-491E-8BC0-958A708E0C59}"
+              DTS:DTSID="{CD2B40F9-20BB-4842-A52F-155F8555D405}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -291,8 +291,8 @@
           DTS:ColumnNamesInFirstDataRow="True"
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
-          DTS:CodePage="1252"
-          DTS:ConnectionString="C:\Users\Piotr Nowek\Documents\DATA\DATA_Basket.csv">
+          DTS:CodePage="1250"
+          DTS:ConnectionString="C:\Users\Piotr\Documents\DATA\DATA_Basket.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -301,7 +301,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Id"
-              DTS:DTSID="{BDF44444-7E05-4063-A93F-2E44D07C5686}"
+              DTS:DTSID="{843192A0-CDDF-4CF5-941A-6D779333E929}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -310,7 +310,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Name"
-              DTS:DTSID="{38381EE1-B6D0-427D-9EEE-8C0591BCE757}"
+              DTS:DTSID="{C4168718-C453-45E7-8AD1-C75FB4D6919C}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -319,7 +319,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Definition"
-              DTS:DTSID="{E6845AC6-B0EB-443A-A3F7-4053BE784984}"
+              DTS:DTSID="{E5CB4FBA-AF68-4C91-A1C4-DED1F715F04A}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -338,8 +338,8 @@
           DTS:ColumnNamesInFirstDataRow="True"
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
-          DTS:CodePage="1252"
-          DTS:ConnectionString="C:\Users\Piotr Nowek\Documents\DATA\DATA_City.csv">
+          DTS:CodePage="1250"
+          DTS:ConnectionString="C:\Users\Piotr\Documents\DATA\DATA_City.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -348,7 +348,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Id"
-              DTS:DTSID="{1C6CC53C-03DF-447D-86B8-FBD2B44D22AF}"
+              DTS:DTSID="{5BDB9498-D04F-46D3-ACBE-AB8BB165C39E}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -357,7 +357,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Name"
-              DTS:DTSID="{C730BD5F-D5E0-4360-A6EB-FB05F65C62D3}"
+              DTS:DTSID="{D1BFF876-9373-4E70-A9BD-108B2BFB8C31}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -366,7 +366,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="CountryId"
-              DTS:DTSID="{8FED7B28-FAA6-4ED6-8758-AB90B8FBE8D6}"
+              DTS:DTSID="{5A942480-9302-4CCB-BB34-448CCA57B90F}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -385,8 +385,8 @@
           DTS:ColumnNamesInFirstDataRow="True"
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
-          DTS:CodePage="1252"
-          DTS:ConnectionString="C:\Users\Piotr Nowek\Documents\DATA\DATA_Client.csv">
+          DTS:CodePage="1250"
+          DTS:ConnectionString="C:\Users\Piotr\Documents\DATA\DATA_Client.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -395,7 +395,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Id"
-              DTS:DTSID="{D5FF4620-2FC1-4419-B4E3-0A8CCEFFD818}"
+              DTS:DTSID="{6F466964-7043-4E06-ABF3-D524B800197B}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -404,7 +404,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="FirstName"
-              DTS:DTSID="{401154CA-F9EE-4FF4-BDA3-3E5FD0A6366C}"
+              DTS:DTSID="{AD53356A-F4B3-4F31-B61C-2C80F79F5802}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -413,7 +413,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="LastName"
-              DTS:DTSID="{880711E5-7EB4-4D07-A39A-FB3DC1FE6539}"
+              DTS:DTSID="{0E5A3073-4009-464B-8EB0-549EDCD14BE4}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -422,7 +422,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="IsAnonimized"
-              DTS:DTSID="{738FA1DE-20DC-4EBD-AA86-A28D317B0E32}"
+              DTS:DTSID="{D9277C44-7659-4704-AE0F-81C35ED93BB7}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -431,7 +431,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="BasketId"
-              DTS:DTSID="{3B07E0D8-8A64-4AF2-AD4A-8B8151FF5A04}"
+              DTS:DTSID="{515EA736-F053-4AFD-9823-33480B6BE228}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -440,7 +440,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="ClientTypeId"
-              DTS:DTSID="{0B0E3A0F-2007-47AC-9127-4B9C54BDE646}"
+              DTS:DTSID="{89A421E3-E505-4B7D-AFCB-6171D24E9B86}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -459,8 +459,8 @@
           DTS:ColumnNamesInFirstDataRow="True"
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
-          DTS:CodePage="1252"
-          DTS:ConnectionString="C:\Users\Piotr Nowek\Documents\DATA\DATA_ClientType.csv">
+          DTS:CodePage="1250"
+          DTS:ConnectionString="C:\Users\Piotr\Documents\DATA\DATA_ClientType.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -469,7 +469,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Id"
-              DTS:DTSID="{4C27DF65-C9A5-4FAC-8464-7B72902FFBA2}"
+              DTS:DTSID="{7CA779FB-1F7C-4563-AC93-8C074721A377}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -478,7 +478,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Name"
-              DTS:DTSID="{29A1A5BB-0E87-4E7C-BDD7-9649D43152A0}"
+              DTS:DTSID="{5E6C4835-51CD-4658-9270-56E74D39CCAA}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -487,7 +487,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Shortcut"
-              DTS:DTSID="{169B4DCB-DD48-4137-B853-CA80D4F74BE4}"
+              DTS:DTSID="{D7EBD344-6451-4869-A946-66B4DBFAF7EF}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -506,8 +506,8 @@
           DTS:ColumnNamesInFirstDataRow="True"
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
-          DTS:CodePage="1252"
-          DTS:ConnectionString="C:\Users\Piotr Nowek\Documents\DATA\DATA_Country.csv">
+          DTS:CodePage="1250"
+          DTS:ConnectionString="C:\Users\Piotr\Documents\DATA\DATA_Country.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -516,7 +516,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Id"
-              DTS:DTSID="{5FFC49A2-8016-4B5E-ADA6-5DC6A8DA37B8}"
+              DTS:DTSID="{CD39B70C-6373-455A-BC03-4122727A7410}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -525,7 +525,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Name"
-              DTS:DTSID="{33412E42-3935-4519-BFAB-F59EB8825D09}"
+              DTS:DTSID="{06F5B56F-1A12-4D90-9154-794442FB41AB}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -544,8 +544,8 @@
           DTS:ColumnNamesInFirstDataRow="True"
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
-          DTS:CodePage="1252"
-          DTS:ConnectionString="C:\Users\Piotr Nowek\Documents\DATA\DATA_Currency.csv">
+          DTS:CodePage="1250"
+          DTS:ConnectionString="C:\Users\Piotr\Documents\DATA\DATA_Currency.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -554,7 +554,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Id"
-              DTS:DTSID="{3AA706EE-51F9-4AC1-9002-549C470E2C7B}"
+              DTS:DTSID="{B88F3BFB-CCF4-44C2-B69F-EE207C9557DF}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -563,7 +563,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Name"
-              DTS:DTSID="{12E2CF75-DE03-4C6E-B063-A954EB56AD21}"
+              DTS:DTSID="{55516DD5-0820-458C-8198-15F7C233C1C0}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -572,7 +572,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Shortcut"
-              DTS:DTSID="{6AB7D2C1-735A-4190-87C8-F7E0A816D8D4}"
+              DTS:DTSID="{7A367AD3-7AC7-416B-9CD9-4C6084289A0C}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -591,8 +591,8 @@
           DTS:ColumnNamesInFirstDataRow="True"
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
-          DTS:CodePage="1252"
-          DTS:ConnectionString="C:\Users\Piotr Nowek\Documents\DATA\DATA_Timeframe.csv">
+          DTS:CodePage="1250"
+          DTS:ConnectionString="C:\Users\Piotr\Documents\DATA\DATA_Timeframe.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -601,7 +601,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Id"
-              DTS:DTSID="{7FE7F892-8BCF-49FD-8455-BA8723B0D190}"
+              DTS:DTSID="{E790973E-3238-40F9-AC7C-6E21FDBCC914}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -610,7 +610,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Name"
-              DTS:DTSID="{DF3846DA-0C31-4FFB-B46A-1EDE32B6AC4B}"
+              DTS:DTSID="{DF798450-CAF2-4410-AAFA-54B2BE16CBA9}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -619,7 +619,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Day"
-              DTS:DTSID="{BF63E439-7E53-4FE0-82C7-A6D6D771D734}"
+              DTS:DTSID="{013104E1-B626-450B-842B-C4A77B8D4941}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -628,7 +628,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Month"
-              DTS:DTSID="{9EEA7673-5581-46C6-A36D-769770A12419}"
+              DTS:DTSID="{C63342DA-DBC0-4931-9B7D-B59E5133AA88}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -637,7 +637,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Year"
-              DTS:DTSID="{2C5E0767-1954-45E5-A5C2-D3378C241688}"
+              DTS:DTSID="{C04A7679-A75A-4B08-9B56-09F969CB26A8}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -656,8 +656,8 @@
           DTS:ColumnNamesInFirstDataRow="True"
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
-          DTS:CodePage="1252"
-          DTS:ConnectionString="C:\Users\Piotr Nowek\Documents\DATA\DATA_Transaction.csv">
+          DTS:CodePage="1250"
+          DTS:ConnectionString="C:\Users\Piotr\Documents\DATA\DATA_Transaction.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -666,7 +666,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Id"
-              DTS:DTSID="{BD025247-9337-4C1A-9477-2730948C292E}"
+              DTS:DTSID="{B24BDED5-AA2C-48CF-9F99-67D0D30D592C}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -675,7 +675,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Title"
-              DTS:DTSID="{F7AA62B4-1C90-4B72-9CC0-B546B00B9711}"
+              DTS:DTSID="{C642CF1C-7326-447B-97BE-20757249C215}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -684,7 +684,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Amount"
-              DTS:DTSID="{CE74C350-0630-4D6F-B222-6AF2EBBE360A}"
+              DTS:DTSID="{8AC2B8B0-1073-4E7A-923A-DB45A8A6D32B}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -693,7 +693,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="IsPreferential"
-              DTS:DTSID="{19C7244F-6AFE-4523-B229-76205185BFDF}"
+              DTS:DTSID="{CF6C5BC4-18D1-4468-A802-04985E534756}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -702,7 +702,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="SourceAccountId"
-              DTS:DTSID="{5561CCDB-E8A7-4499-9E4E-CE3F4DF1C5B1}"
+              DTS:DTSID="{327D9DCF-EE6A-44DE-8D23-EF91528CE7B7}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -711,7 +711,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="DestinationAccountId"
-              DTS:DTSID="{EDFF420B-D5BC-4D1E-B1FE-38581F21297A}"
+              DTS:DTSID="{49C1C85B-0903-49B9-BC12-D9183679D0B0}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -720,7 +720,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="BankDepartmentId"
-              DTS:DTSID="{5D8BE283-245B-4FE5-9770-39A551D01790}"
+              DTS:DTSID="{9AC492B9-9E2C-4F3E-B7C3-E8BFFBE16BDB}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -729,7 +729,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="CurrencyId"
-              DTS:DTSID="{8BF62339-EF97-41DD-A765-CF810096547F}"
+              DTS:DTSID="{449A5D44-482C-40D0-9582-F6EF1E3E6619}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -738,7 +738,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="TimeFrameId"
-              DTS:DTSID="{84B15962-9D82-40F8-A693-931E72866602}"
+              DTS:DTSID="{D0BA8922-ECB6-40A2-AF21-0708B704AD7F}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -810,7 +810,7 @@
                   <outputColumns>
                     <outputColumn
                       refId="Package\Import Accounts\AccountFile.Outputs[Flat File Source Output].Columns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -832,7 +832,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Accounts\AccountFile.Outputs[Flat File Source Output].Columns[No]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -854,7 +854,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Accounts\AccountFile.Outputs[Flat File Source Output].Columns[ClientId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -876,7 +876,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Accounts\AccountFile.Outputs[Flat File Source Output].Columns[AccountTypeId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -901,25 +901,25 @@
                     isUsed="True">
                     <externalMetadataColumn
                       refId="Package\Import Accounts\AccountFile.Outputs[Flat File Source Output].ExternalColumns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import Accounts\AccountFile.Outputs[Flat File Source Output].ExternalColumns[No]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="No" />
                     <externalMetadataColumn
                       refId="Package\Import Accounts\AccountFile.Outputs[Flat File Source Output].ExternalColumns[ClientId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="ClientId" />
                     <externalMetadataColumn
                       refId="Package\Import Accounts\AccountFile.Outputs[Flat File Source Output].ExternalColumns[AccountTypeId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="AccountTypeId" />
@@ -1028,7 +1028,7 @@
                   <inputColumns>
                     <inputColumn
                       refId="Package\Import Accounts\AccountTable.Inputs[OLE DB Destination Input].Columns[Id]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Id"
@@ -1036,7 +1036,7 @@
                       lineageId="Package\Import Accounts\AccountFile.Outputs[Flat File Source Output].Columns[Id]" />
                     <inputColumn
                       refId="Package\Import Accounts\AccountTable.Inputs[OLE DB Destination Input].Columns[No]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="No"
@@ -1044,7 +1044,7 @@
                       lineageId="Package\Import Accounts\AccountFile.Outputs[Flat File Source Output].Columns[No]" />
                     <inputColumn
                       refId="Package\Import Accounts\AccountTable.Inputs[OLE DB Destination Input].Columns[ClientId]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="ClientId"
@@ -1052,7 +1052,7 @@
                       lineageId="Package\Import Accounts\AccountFile.Outputs[Flat File Source Output].Columns[ClientId]" />
                     <inputColumn
                       refId="Package\Import Accounts\AccountTable.Inputs[OLE DB Destination Input].Columns[AccountTypeId]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="AccountTypeId"
@@ -1067,7 +1067,7 @@
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import Accounts\AccountTable.Inputs[OLE DB Destination Input].ExternalColumns[No]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="No" />
@@ -1206,7 +1206,7 @@
                   <inputColumns>
                     <inputColumn
                       refId="Package\Import AccountType\AccountType Destination.Inputs[OLE DB Destination Input].Columns[Id]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Id"
@@ -1214,7 +1214,7 @@
                       lineageId="Package\Import AccountType\AccountType Source.Outputs[Flat File Source Output].Columns[Id]" />
                     <inputColumn
                       refId="Package\Import AccountType\AccountType Destination.Inputs[OLE DB Destination Input].Columns[Name]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Name"
@@ -1222,7 +1222,7 @@
                       lineageId="Package\Import AccountType\AccountType Source.Outputs[Flat File Source Output].Columns[Name]" />
                     <inputColumn
                       refId="Package\Import AccountType\AccountType Destination.Inputs[OLE DB Destination Input].Columns[Shortcut]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Shortcut"
@@ -1237,13 +1237,13 @@
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import AccountType\AccountType Destination.Inputs[OLE DB Destination Input].ExternalColumns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Name" />
                     <externalMetadataColumn
                       refId="Package\Import AccountType\AccountType Destination.Inputs[OLE DB Destination Input].ExternalColumns[Shortcut]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="1"
                       name="Shortcut" />
@@ -1308,7 +1308,7 @@
                   <outputColumns>
                     <outputColumn
                       refId="Package\Import AccountType\AccountType Source.Outputs[Flat File Source Output].Columns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -1330,7 +1330,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import AccountType\AccountType Source.Outputs[Flat File Source Output].Columns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -1352,7 +1352,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import AccountType\AccountType Source.Outputs[Flat File Source Output].Columns[Shortcut]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -1377,19 +1377,19 @@
                     isUsed="True">
                     <externalMetadataColumn
                       refId="Package\Import AccountType\AccountType Source.Outputs[Flat File Source Output].ExternalColumns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import AccountType\AccountType Source.Outputs[Flat File Source Output].ExternalColumns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Name" />
                     <externalMetadataColumn
                       refId="Package\Import AccountType\AccountType Source.Outputs[Flat File Source Output].ExternalColumns[Shortcut]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Shortcut" />
@@ -1482,7 +1482,7 @@
                   <outputColumns>
                     <outputColumn
                       refId="Package\Import Address\AddressFile.Outputs[Flat File Source Output].Columns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -1504,7 +1504,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Address\AddressFile.Outputs[Flat File Source Output].Columns[Street]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -1526,7 +1526,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Address\AddressFile.Outputs[Flat File Source Output].Columns[No]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -1548,7 +1548,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Address\AddressFile.Outputs[Flat File Source Output].Columns[CityId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -1573,25 +1573,25 @@
                     isUsed="True">
                     <externalMetadataColumn
                       refId="Package\Import Address\AddressFile.Outputs[Flat File Source Output].ExternalColumns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import Address\AddressFile.Outputs[Flat File Source Output].ExternalColumns[Street]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Street" />
                     <externalMetadataColumn
                       refId="Package\Import Address\AddressFile.Outputs[Flat File Source Output].ExternalColumns[No]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="No" />
                     <externalMetadataColumn
                       refId="Package\Import Address\AddressFile.Outputs[Flat File Source Output].ExternalColumns[CityId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="CityId" />
@@ -1700,7 +1700,7 @@
                   <inputColumns>
                     <inputColumn
                       refId="Package\Import Address\AddressTable.Inputs[OLE DB Destination Input].Columns[Id]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Id"
@@ -1708,7 +1708,7 @@
                       lineageId="Package\Import Address\AddressFile.Outputs[Flat File Source Output].Columns[Id]" />
                     <inputColumn
                       refId="Package\Import Address\AddressTable.Inputs[OLE DB Destination Input].Columns[Street]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Street"
@@ -1716,7 +1716,7 @@
                       lineageId="Package\Import Address\AddressFile.Outputs[Flat File Source Output].Columns[Street]" />
                     <inputColumn
                       refId="Package\Import Address\AddressTable.Inputs[OLE DB Destination Input].Columns[No]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="No"
@@ -1724,7 +1724,7 @@
                       lineageId="Package\Import Address\AddressFile.Outputs[Flat File Source Output].Columns[No]" />
                     <inputColumn
                       refId="Package\Import Address\AddressTable.Inputs[OLE DB Destination Input].Columns[CityId]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="CityId"
@@ -1739,13 +1739,13 @@
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import Address\AddressTable.Inputs[OLE DB Destination Input].ExternalColumns[Street]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Street" />
                     <externalMetadataColumn
                       refId="Package\Import Address\AddressTable.Inputs[OLE DB Destination Input].ExternalColumns[No]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="10"
                       name="No" />
@@ -1839,7 +1839,7 @@
                   <outputColumns>
                     <outputColumn
                       refId="Package\Import BankDepartment\BankDepartmentFile.Outputs[Flat File Source Output].Columns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -1861,7 +1861,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import BankDepartment\BankDepartmentFile.Outputs[Flat File Source Output].Columns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -1883,7 +1883,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import BankDepartment\BankDepartmentFile.Outputs[Flat File Source Output].Columns[AddressId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -1905,7 +1905,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import BankDepartment\BankDepartmentFile.Outputs[Flat File Source Output].Columns[BankInstanceId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -1930,25 +1930,25 @@
                     isUsed="True">
                     <externalMetadataColumn
                       refId="Package\Import BankDepartment\BankDepartmentFile.Outputs[Flat File Source Output].ExternalColumns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import BankDepartment\BankDepartmentFile.Outputs[Flat File Source Output].ExternalColumns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Name" />
                     <externalMetadataColumn
                       refId="Package\Import BankDepartment\BankDepartmentFile.Outputs[Flat File Source Output].ExternalColumns[AddressId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="AddressId" />
                     <externalMetadataColumn
                       refId="Package\Import BankDepartment\BankDepartmentFile.Outputs[Flat File Source Output].ExternalColumns[BankInstanceId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="BankInstanceId" />
@@ -2057,7 +2057,7 @@
                   <inputColumns>
                     <inputColumn
                       refId="Package\Import BankDepartment\BankDepartmentTable.Inputs[OLE DB Destination Input].Columns[Id]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Id"
@@ -2065,7 +2065,7 @@
                       lineageId="Package\Import BankDepartment\BankDepartmentFile.Outputs[Flat File Source Output].Columns[Id]" />
                     <inputColumn
                       refId="Package\Import BankDepartment\BankDepartmentTable.Inputs[OLE DB Destination Input].Columns[Name]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Name"
@@ -2073,7 +2073,7 @@
                       lineageId="Package\Import BankDepartment\BankDepartmentFile.Outputs[Flat File Source Output].Columns[Name]" />
                     <inputColumn
                       refId="Package\Import BankDepartment\BankDepartmentTable.Inputs[OLE DB Destination Input].Columns[AddressId]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="AddressId"
@@ -2081,7 +2081,7 @@
                       lineageId="Package\Import BankDepartment\BankDepartmentFile.Outputs[Flat File Source Output].Columns[AddressId]" />
                     <inputColumn
                       refId="Package\Import BankDepartment\BankDepartmentTable.Inputs[OLE DB Destination Input].Columns[BankInstanceId]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="BankInstanceId"
@@ -2096,7 +2096,7 @@
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import BankDepartment\BankDepartmentTable.Inputs[OLE DB Destination Input].ExternalColumns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Name" />
@@ -2194,7 +2194,7 @@
                   <outputColumns>
                     <outputColumn
                       refId="Package\Import BankInstance\BankInstanceFile.Outputs[Flat File Source Output].Columns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -2216,7 +2216,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import BankInstance\BankInstanceFile.Outputs[Flat File Source Output].Columns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -2238,7 +2238,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import BankInstance\BankInstanceFile.Outputs[Flat File Source Output].Columns[PermissionNo]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -2263,19 +2263,19 @@
                     isUsed="True">
                     <externalMetadataColumn
                       refId="Package\Import BankInstance\BankInstanceFile.Outputs[Flat File Source Output].ExternalColumns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import BankInstance\BankInstanceFile.Outputs[Flat File Source Output].ExternalColumns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Name" />
                     <externalMetadataColumn
                       refId="Package\Import BankInstance\BankInstanceFile.Outputs[Flat File Source Output].ExternalColumns[PermissionNo]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="PermissionNo" />
@@ -2384,7 +2384,7 @@
                   <inputColumns>
                     <inputColumn
                       refId="Package\Import BankInstance\BankInstanceTable.Inputs[OLE DB Destination Input].Columns[Id]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Id"
@@ -2392,7 +2392,7 @@
                       lineageId="Package\Import BankInstance\BankInstanceFile.Outputs[Flat File Source Output].Columns[Id]" />
                     <inputColumn
                       refId="Package\Import BankInstance\BankInstanceTable.Inputs[OLE DB Destination Input].Columns[Name]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Name"
@@ -2400,7 +2400,7 @@
                       lineageId="Package\Import BankInstance\BankInstanceFile.Outputs[Flat File Source Output].Columns[Name]" />
                     <inputColumn
                       refId="Package\Import BankInstance\BankInstanceTable.Inputs[OLE DB Destination Input].Columns[PermissionNo]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="PermissionNo"
@@ -2415,13 +2415,13 @@
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import BankInstance\BankInstanceTable.Inputs[OLE DB Destination Input].ExternalColumns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Name" />
                     <externalMetadataColumn
                       refId="Package\Import BankInstance\BankInstanceTable.Inputs[OLE DB Destination Input].ExternalColumns[PermissionNo]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="20"
                       name="PermissionNo" />
@@ -2511,7 +2511,7 @@
                   <outputColumns>
                     <outputColumn
                       refId="Package\Import Baskets\BasketFile.Outputs[Flat File Source Output].Columns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -2533,7 +2533,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Baskets\BasketFile.Outputs[Flat File Source Output].Columns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -2555,7 +2555,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Baskets\BasketFile.Outputs[Flat File Source Output].Columns[Definition]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -2580,19 +2580,19 @@
                     isUsed="True">
                     <externalMetadataColumn
                       refId="Package\Import Baskets\BasketFile.Outputs[Flat File Source Output].ExternalColumns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import Baskets\BasketFile.Outputs[Flat File Source Output].ExternalColumns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Name" />
                     <externalMetadataColumn
                       refId="Package\Import Baskets\BasketFile.Outputs[Flat File Source Output].ExternalColumns[Definition]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Definition" />
@@ -2701,7 +2701,7 @@
                   <inputColumns>
                     <inputColumn
                       refId="Package\Import Baskets\BasketTable.Inputs[OLE DB Destination Input].Columns[Id]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Id"
@@ -2709,7 +2709,7 @@
                       lineageId="Package\Import Baskets\BasketFile.Outputs[Flat File Source Output].Columns[Id]" />
                     <inputColumn
                       refId="Package\Import Baskets\BasketTable.Inputs[OLE DB Destination Input].Columns[Name]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Name"
@@ -2717,7 +2717,7 @@
                       lineageId="Package\Import Baskets\BasketFile.Outputs[Flat File Source Output].Columns[Name]" />
                     <inputColumn
                       refId="Package\Import Baskets\BasketTable.Inputs[OLE DB Destination Input].Columns[Definition]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Definition"
@@ -2732,13 +2732,13 @@
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import Baskets\BasketTable.Inputs[OLE DB Destination Input].ExternalColumns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Name" />
                     <externalMetadataColumn
                       refId="Package\Import Baskets\BasketTable.Inputs[OLE DB Destination Input].ExternalColumns[Definition]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Definition" />
@@ -2828,7 +2828,7 @@
                   <outputColumns>
                     <outputColumn
                       refId="Package\Import City\CityFile.Outputs[Flat File Source Output].Columns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -2850,7 +2850,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import City\CityFile.Outputs[Flat File Source Output].Columns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -2872,7 +2872,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import City\CityFile.Outputs[Flat File Source Output].Columns[CountryId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -2897,19 +2897,19 @@
                     isUsed="True">
                     <externalMetadataColumn
                       refId="Package\Import City\CityFile.Outputs[Flat File Source Output].ExternalColumns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import City\CityFile.Outputs[Flat File Source Output].ExternalColumns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Name" />
                     <externalMetadataColumn
                       refId="Package\Import City\CityFile.Outputs[Flat File Source Output].ExternalColumns[CountryId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="CountryId" />
@@ -3018,7 +3018,7 @@
                   <inputColumns>
                     <inputColumn
                       refId="Package\Import City\CityTable.Inputs[OLE DB Destination Input].Columns[Id]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Id"
@@ -3026,7 +3026,7 @@
                       lineageId="Package\Import City\CityFile.Outputs[Flat File Source Output].Columns[Id]" />
                     <inputColumn
                       refId="Package\Import City\CityTable.Inputs[OLE DB Destination Input].Columns[Name]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Name"
@@ -3034,7 +3034,7 @@
                       lineageId="Package\Import City\CityFile.Outputs[Flat File Source Output].Columns[Name]" />
                     <inputColumn
                       refId="Package\Import City\CityTable.Inputs[OLE DB Destination Input].Columns[CountryId]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="CountryId"
@@ -3049,7 +3049,7 @@
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import City\CityTable.Inputs[OLE DB Destination Input].ExternalColumns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Name" />
@@ -3143,7 +3143,7 @@
                   <outputColumns>
                     <outputColumn
                       refId="Package\Import Client\ClientFile.Outputs[Flat File Source Output].Columns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -3165,7 +3165,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Client\ClientFile.Outputs[Flat File Source Output].Columns[FirstName]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -3187,7 +3187,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Client\ClientFile.Outputs[Flat File Source Output].Columns[LastName]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -3209,7 +3209,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Client\ClientFile.Outputs[Flat File Source Output].Columns[IsAnonimized]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -3231,7 +3231,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Client\ClientFile.Outputs[Flat File Source Output].Columns[BasketId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -3253,7 +3253,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Client\ClientFile.Outputs[Flat File Source Output].Columns[ClientTypeId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -3278,37 +3278,37 @@
                     isUsed="True">
                     <externalMetadataColumn
                       refId="Package\Import Client\ClientFile.Outputs[Flat File Source Output].ExternalColumns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import Client\ClientFile.Outputs[Flat File Source Output].ExternalColumns[FirstName]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="FirstName" />
                     <externalMetadataColumn
                       refId="Package\Import Client\ClientFile.Outputs[Flat File Source Output].ExternalColumns[LastName]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="LastName" />
                     <externalMetadataColumn
                       refId="Package\Import Client\ClientFile.Outputs[Flat File Source Output].ExternalColumns[IsAnonimized]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="IsAnonimized" />
                     <externalMetadataColumn
                       refId="Package\Import Client\ClientFile.Outputs[Flat File Source Output].ExternalColumns[BasketId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="BasketId" />
                     <externalMetadataColumn
                       refId="Package\Import Client\ClientFile.Outputs[Flat File Source Output].ExternalColumns[ClientTypeId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="ClientTypeId" />
@@ -3417,7 +3417,7 @@
                   <inputColumns>
                     <inputColumn
                       refId="Package\Import Client\ClientTable.Inputs[OLE DB Destination Input].Columns[Id]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Id"
@@ -3425,7 +3425,7 @@
                       lineageId="Package\Import Client\ClientFile.Outputs[Flat File Source Output].Columns[Id]" />
                     <inputColumn
                       refId="Package\Import Client\ClientTable.Inputs[OLE DB Destination Input].Columns[FirstName]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="FirstName"
@@ -3433,7 +3433,7 @@
                       lineageId="Package\Import Client\ClientFile.Outputs[Flat File Source Output].Columns[FirstName]" />
                     <inputColumn
                       refId="Package\Import Client\ClientTable.Inputs[OLE DB Destination Input].Columns[LastName]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="LastName"
@@ -3441,7 +3441,7 @@
                       lineageId="Package\Import Client\ClientFile.Outputs[Flat File Source Output].Columns[LastName]" />
                     <inputColumn
                       refId="Package\Import Client\ClientTable.Inputs[OLE DB Destination Input].Columns[IsAnonimized]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="IsAnonimized"
@@ -3449,7 +3449,7 @@
                       lineageId="Package\Import Client\ClientFile.Outputs[Flat File Source Output].Columns[IsAnonimized]" />
                     <inputColumn
                       refId="Package\Import Client\ClientTable.Inputs[OLE DB Destination Input].Columns[BasketId]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="BasketId"
@@ -3457,7 +3457,7 @@
                       lineageId="Package\Import Client\ClientFile.Outputs[Flat File Source Output].Columns[BasketId]" />
                     <inputColumn
                       refId="Package\Import Client\ClientTable.Inputs[OLE DB Destination Input].Columns[ClientTypeId]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="ClientTypeId"
@@ -3472,13 +3472,13 @@
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import Client\ClientTable.Inputs[OLE DB Destination Input].ExternalColumns[FirstName]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="FirstName" />
                     <externalMetadataColumn
                       refId="Package\Import Client\ClientTable.Inputs[OLE DB Destination Input].ExternalColumns[LastName]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="LastName" />
@@ -3621,7 +3621,7 @@
                   <inputColumns>
                     <inputColumn
                       refId="Package\Import ClientType\ClientType Destination.Inputs[OLE DB Destination Input].Columns[Id]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Id"
@@ -3629,7 +3629,7 @@
                       lineageId="Package\Import ClientType\ClientType Source.Outputs[Flat File Source Output].Columns[Id]" />
                     <inputColumn
                       refId="Package\Import ClientType\ClientType Destination.Inputs[OLE DB Destination Input].Columns[Name]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Name"
@@ -3637,7 +3637,7 @@
                       lineageId="Package\Import ClientType\ClientType Source.Outputs[Flat File Source Output].Columns[Name]" />
                     <inputColumn
                       refId="Package\Import ClientType\ClientType Destination.Inputs[OLE DB Destination Input].Columns[Shortcut]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Shortcut"
@@ -3652,13 +3652,13 @@
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import ClientType\ClientType Destination.Inputs[OLE DB Destination Input].ExternalColumns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Name" />
                     <externalMetadataColumn
                       refId="Package\Import ClientType\ClientType Destination.Inputs[OLE DB Destination Input].ExternalColumns[Shortcut]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="1"
                       name="Shortcut" />
@@ -3723,7 +3723,7 @@
                   <outputColumns>
                     <outputColumn
                       refId="Package\Import ClientType\ClientType Source.Outputs[Flat File Source Output].Columns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -3745,7 +3745,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import ClientType\ClientType Source.Outputs[Flat File Source Output].Columns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -3767,7 +3767,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import ClientType\ClientType Source.Outputs[Flat File Source Output].Columns[Shortcut]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -3792,19 +3792,19 @@
                     isUsed="True">
                     <externalMetadataColumn
                       refId="Package\Import ClientType\ClientType Source.Outputs[Flat File Source Output].ExternalColumns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import ClientType\ClientType Source.Outputs[Flat File Source Output].ExternalColumns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Name" />
                     <externalMetadataColumn
                       refId="Package\Import ClientType\ClientType Source.Outputs[Flat File Source Output].ExternalColumns[Shortcut]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Shortcut" />
@@ -3897,7 +3897,7 @@
                   <outputColumns>
                     <outputColumn
                       refId="Package\Import Country\CountryFile.Outputs[Flat File Source Output].Columns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -3919,7 +3919,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Country\CountryFile.Outputs[Flat File Source Output].Columns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -3944,13 +3944,13 @@
                     isUsed="True">
                     <externalMetadataColumn
                       refId="Package\Import Country\CountryFile.Outputs[Flat File Source Output].ExternalColumns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import Country\CountryFile.Outputs[Flat File Source Output].ExternalColumns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Name" />
@@ -4059,7 +4059,7 @@
                   <inputColumns>
                     <inputColumn
                       refId="Package\Import Country\CountryTable.Inputs[OLE DB Destination Input].Columns[Id]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Id"
@@ -4067,7 +4067,7 @@
                       lineageId="Package\Import Country\CountryFile.Outputs[Flat File Source Output].Columns[Id]" />
                     <inputColumn
                       refId="Package\Import Country\CountryTable.Inputs[OLE DB Destination Input].Columns[Name]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Name"
@@ -4082,7 +4082,7 @@
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import Country\CountryTable.Inputs[OLE DB Destination Input].ExternalColumns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Name" />
@@ -4172,7 +4172,7 @@
                   <outputColumns>
                     <outputColumn
                       refId="Package\Import Currencies\CurrencyFile.Outputs[Flat File Source Output].Columns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -4194,7 +4194,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Currencies\CurrencyFile.Outputs[Flat File Source Output].Columns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -4216,7 +4216,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Currencies\CurrencyFile.Outputs[Flat File Source Output].Columns[Shortcut]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -4241,19 +4241,19 @@
                     isUsed="True">
                     <externalMetadataColumn
                       refId="Package\Import Currencies\CurrencyFile.Outputs[Flat File Source Output].ExternalColumns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import Currencies\CurrencyFile.Outputs[Flat File Source Output].ExternalColumns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Name" />
                     <externalMetadataColumn
                       refId="Package\Import Currencies\CurrencyFile.Outputs[Flat File Source Output].ExternalColumns[Shortcut]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Shortcut" />
@@ -4362,7 +4362,7 @@
                   <inputColumns>
                     <inputColumn
                       refId="Package\Import Currencies\CurrencyTable.Inputs[OLE DB Destination Input].Columns[Id]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Id"
@@ -4370,7 +4370,7 @@
                       lineageId="Package\Import Currencies\CurrencyFile.Outputs[Flat File Source Output].Columns[Id]" />
                     <inputColumn
                       refId="Package\Import Currencies\CurrencyTable.Inputs[OLE DB Destination Input].Columns[Name]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Name"
@@ -4378,7 +4378,7 @@
                       lineageId="Package\Import Currencies\CurrencyFile.Outputs[Flat File Source Output].Columns[Name]" />
                     <inputColumn
                       refId="Package\Import Currencies\CurrencyTable.Inputs[OLE DB Destination Input].Columns[Shortcut]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Shortcut"
@@ -4393,12 +4393,13 @@
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import Currencies\CurrencyTable.Inputs[OLE DB Destination Input].ExternalColumns[Name]"
-                      dataType="bytes"
+                      codePage="1250"
+                      dataType="str"
                       length="50"
                       name="Name" />
                     <externalMetadataColumn
                       refId="Package\Import Currencies\CurrencyTable.Inputs[OLE DB Destination Input].ExternalColumns[Shortcut]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="10"
                       name="Shortcut" />
@@ -4487,7 +4488,7 @@
                   <outputColumns>
                     <outputColumn
                       refId="Package\Import TimeFrame\TimeFrame.Outputs[Flat File Source Output].Columns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -4509,7 +4510,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import TimeFrame\TimeFrame.Outputs[Flat File Source Output].Columns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -4531,7 +4532,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import TimeFrame\TimeFrame.Outputs[Flat File Source Output].Columns[Day]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -4553,7 +4554,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import TimeFrame\TimeFrame.Outputs[Flat File Source Output].Columns[Month]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -4575,7 +4576,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import TimeFrame\TimeFrame.Outputs[Flat File Source Output].Columns[Year]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -4600,31 +4601,31 @@
                     isUsed="True">
                     <externalMetadataColumn
                       refId="Package\Import TimeFrame\TimeFrame.Outputs[Flat File Source Output].ExternalColumns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import TimeFrame\TimeFrame.Outputs[Flat File Source Output].ExternalColumns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Name" />
                     <externalMetadataColumn
                       refId="Package\Import TimeFrame\TimeFrame.Outputs[Flat File Source Output].ExternalColumns[Day]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Day" />
                     <externalMetadataColumn
                       refId="Package\Import TimeFrame\TimeFrame.Outputs[Flat File Source Output].ExternalColumns[Month]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Month" />
                     <externalMetadataColumn
                       refId="Package\Import TimeFrame\TimeFrame.Outputs[Flat File Source Output].ExternalColumns[Year]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Year" />
@@ -4733,7 +4734,7 @@
                   <inputColumns>
                     <inputColumn
                       refId="Package\Import TimeFrame\TimeFrame Table.Inputs[OLE DB Destination Input].Columns[Id]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Id"
@@ -4741,7 +4742,7 @@
                       lineageId="Package\Import TimeFrame\TimeFrame.Outputs[Flat File Source Output].Columns[Id]" />
                     <inputColumn
                       refId="Package\Import TimeFrame\TimeFrame Table.Inputs[OLE DB Destination Input].Columns[Name]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Name"
@@ -4749,7 +4750,7 @@
                       lineageId="Package\Import TimeFrame\TimeFrame.Outputs[Flat File Source Output].Columns[Name]" />
                     <inputColumn
                       refId="Package\Import TimeFrame\TimeFrame Table.Inputs[OLE DB Destination Input].Columns[Day]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Day"
@@ -4757,7 +4758,7 @@
                       lineageId="Package\Import TimeFrame\TimeFrame.Outputs[Flat File Source Output].Columns[Day]" />
                     <inputColumn
                       refId="Package\Import TimeFrame\TimeFrame Table.Inputs[OLE DB Destination Input].Columns[Month]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Month"
@@ -4765,7 +4766,7 @@
                       lineageId="Package\Import TimeFrame\TimeFrame.Outputs[Flat File Source Output].Columns[Month]" />
                     <inputColumn
                       refId="Package\Import TimeFrame\TimeFrame Table.Inputs[OLE DB Destination Input].Columns[Year]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Year"
@@ -4780,7 +4781,7 @@
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import TimeFrame\TimeFrame Table.Inputs[OLE DB Destination Input].ExternalColumns[Name]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Name" />
@@ -4882,7 +4883,7 @@
                   <outputColumns>
                     <outputColumn
                       refId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].Columns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -4904,7 +4905,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].Columns[Title]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -4926,7 +4927,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].Columns[Amount]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -4948,7 +4949,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].Columns[IsPreferential]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -4970,7 +4971,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].Columns[SourceAccountId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -4992,7 +4993,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].Columns[DestinationAccountId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -5014,7 +5015,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].Columns[BankDepartmentId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -5036,7 +5037,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].Columns[CurrencyId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -5058,7 +5059,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].Columns[TimeFrameId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
@@ -5083,55 +5084,55 @@
                     isUsed="True">
                     <externalMetadataColumn
                       refId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].ExternalColumns[Id]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].ExternalColumns[Title]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Title" />
                     <externalMetadataColumn
                       refId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].ExternalColumns[Amount]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Amount" />
                     <externalMetadataColumn
                       refId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].ExternalColumns[IsPreferential]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="IsPreferential" />
                     <externalMetadataColumn
                       refId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].ExternalColumns[SourceAccountId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="SourceAccountId" />
                     <externalMetadataColumn
                       refId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].ExternalColumns[DestinationAccountId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="DestinationAccountId" />
                     <externalMetadataColumn
                       refId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].ExternalColumns[BankDepartmentId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="BankDepartmentId" />
                     <externalMetadataColumn
                       refId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].ExternalColumns[CurrencyId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="CurrencyId" />
                     <externalMetadataColumn
                       refId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].ExternalColumns[TimeFrameId]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="TimeFrameId" />
@@ -5240,7 +5241,7 @@
                   <inputColumns>
                     <inputColumn
                       refId="Package\Import Transactions\TransactionTable.Inputs[OLE DB Destination Input].Columns[Id]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Id"
@@ -5248,7 +5249,7 @@
                       lineageId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].Columns[Id]" />
                     <inputColumn
                       refId="Package\Import Transactions\TransactionTable.Inputs[OLE DB Destination Input].Columns[Title]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Title"
@@ -5256,7 +5257,7 @@
                       lineageId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].Columns[Title]" />
                     <inputColumn
                       refId="Package\Import Transactions\TransactionTable.Inputs[OLE DB Destination Input].Columns[Amount]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Amount"
@@ -5264,7 +5265,7 @@
                       lineageId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].Columns[Amount]" />
                     <inputColumn
                       refId="Package\Import Transactions\TransactionTable.Inputs[OLE DB Destination Input].Columns[IsPreferential]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="IsPreferential"
@@ -5272,7 +5273,7 @@
                       lineageId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].Columns[IsPreferential]" />
                     <inputColumn
                       refId="Package\Import Transactions\TransactionTable.Inputs[OLE DB Destination Input].Columns[SourceAccountId]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="SourceAccountId"
@@ -5280,7 +5281,7 @@
                       lineageId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].Columns[SourceAccountId]" />
                     <inputColumn
                       refId="Package\Import Transactions\TransactionTable.Inputs[OLE DB Destination Input].Columns[DestinationAccountId]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="DestinationAccountId"
@@ -5288,7 +5289,7 @@
                       lineageId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].Columns[DestinationAccountId]" />
                     <inputColumn
                       refId="Package\Import Transactions\TransactionTable.Inputs[OLE DB Destination Input].Columns[BankDepartmentId]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="BankDepartmentId"
@@ -5296,7 +5297,7 @@
                       lineageId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].Columns[BankDepartmentId]" />
                     <inputColumn
                       refId="Package\Import Transactions\TransactionTable.Inputs[OLE DB Destination Input].Columns[CurrencyId]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="CurrencyId"
@@ -5304,7 +5305,7 @@
                       lineageId="Package\Import Transactions\TransactionFile.Outputs[Flat File Source Output].Columns[CurrencyId]" />
                     <inputColumn
                       refId="Package\Import Transactions\TransactionTable.Inputs[OLE DB Destination Input].Columns[TimeFrameId]"
-                      cachedCodepage="1252"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="TimeFrameId"
@@ -5319,7 +5320,7 @@
                       name="Id" />
                     <externalMetadataColumn
                       refId="Package\Import Transactions\TransactionTable.Inputs[OLE DB Destination Input].ExternalColumns[Title]"
-                      codePage="1252"
+                      codePage="1250"
                       dataType="text"
                       name="Title" />
                     <externalMetadataColumn
@@ -5908,7 +5909,7 @@
     design-time-name="Package\Import AccountType">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="175,42"
           Id="Package\Import AccountType\AccountType Source"
@@ -5948,9 +5949,7 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -5973,7 +5972,7 @@
     design-time-name="Package\Import Address">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="142,42"
           Id="Package\Import Address\AddressTable"
@@ -6001,9 +6000,7 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -6026,7 +6023,7 @@
     design-time-name="Package\Import BankDepartment">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="184,42"
           Id="Package\Import BankDepartment\BankDepartmentTable"
@@ -6054,9 +6051,7 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -6079,7 +6074,7 @@
     design-time-name="Package\Import BankInstance">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="168,42"
           Id="Package\Import BankInstance\BankInstanceTable"
@@ -6107,9 +6102,7 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -6132,7 +6125,7 @@
     design-time-name="Package\Import Baskets">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="136,42"
           Id="Package\Import Baskets\BasketTable"
@@ -6160,9 +6153,7 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -6185,7 +6176,7 @@
     design-time-name="Package\Import City">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="123,42"
           Id="Package\Import City\CityTable"
@@ -6213,9 +6204,7 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -6240,13 +6229,13 @@
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="131,42"
-          Id="Package\Import Client\ClientTable"
-          TopLeft="196,147" />
-        <NodeLayout
           Size="121,42"
           Id="Package\Import Client\ClientFile"
           TopLeft="197,57" />
+        <NodeLayout
+          Size="131,42"
+          Id="Package\Import Client\ClientTable"
+          TopLeft="196,147" />
         <EdgeLayout
           Id="Package\Import Client.Paths[Flat File Source Output]"
           TopLeft="259.5,99">
@@ -6289,7 +6278,7 @@
     design-time-name="Package\Import ClientType">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="164,42"
           Id="Package\Import ClientType\ClientType Source"
@@ -6317,9 +6306,7 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -6342,7 +6329,7 @@
     design-time-name="Package\Import Country">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="142,42"
           Id="Package\Import Country\CountryTable"
@@ -6370,9 +6357,7 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -6395,7 +6380,7 @@
     design-time-name="Package\Import Currencies">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="147,42"
           Id="Package\Import Currencies\CurrencyTable"
@@ -6423,9 +6408,7 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -6448,7 +6431,7 @@
     design-time-name="Package\Import TimeFrame">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="189,50"
           Id="Package\Import TimeFrame\TimeFrame Table"
@@ -6476,9 +6459,7 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -6501,7 +6482,7 @@
     design-time-name="Package\Import Transactions">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="159,42"
           Id="Package\Import Transactions\TransactionTable"
@@ -6529,9 +6510,7 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>

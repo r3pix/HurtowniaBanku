@@ -54,6 +54,8 @@
   <ItemGroup>
     <Report Include="PodsumowanieTransakcji.rdl" />
     <Report Include="PodsumowanieTransakcjiPoWalucie.rdl" />
+    <Report Include="WydatkiMiesieczneFirm2.rdl" />
+    <Report Include="WydatkiMiesięczneFirm.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
 </Project>

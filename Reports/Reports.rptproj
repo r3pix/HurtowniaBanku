@@ -52,8 +52,11 @@
     <DataSource Include="Cube1.rds" />
   </ItemGroup>
   <ItemGroup>
+    <Report Include="MiesiecznaLiczbaOperacjiKlientowJednostkowychWBanku.rdl" />
     <Report Include="PodsumowanieTransakcji.rdl" />
     <Report Include="PodsumowanieTransakcjiPoWalucie.rdl" />
+    <Report Include="RocznyPrzeplywPieniedzyMiedzyKontami.rdl" />
+    <Report Include="WydatkiDzienneKlinetowWKrajuPoKoszyku.rdl" />
     <Report Include="WydatkiMiesieczneFirm2.rdl" />
     <Report Include="WydatkiMiesięczneFirm.rdl" />
   </ItemGroup>

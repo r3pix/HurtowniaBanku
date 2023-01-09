@@ -161,7 +161,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>Wydatki Miesieczne Firm</Value>
+                    <Value>Obrót Miesieczny Firm</Value>
                     <Style>
                       <FontFamily>Segoe UI Light</FontFamily>
                       <FontSize>24pt</FontSize>
@@ -957,7 +957,7 @@
                               </ChartLegends>
                               <ChartTitles>
                                 <ChartTitle Name="Default">
-                                  <Caption>Tytuł wykresu</Caption>
+                                  <Caption>Zawartość procentowa</Caption>
                                   <Style>
                                     <BackgroundGradientType>None</BackgroundGradientType>
                                     <FontSize>9pt</FontSize>

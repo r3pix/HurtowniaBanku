@@ -131,7 +131,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>MiesiecznaLiczbaOperacjiKlientowJednostkowychWBanku</Value>
+                    <Value>Miesieczna Liczba Operacji Klientow Jednostkowych W Banku</Value>
                     <Style>
                       <FontFamily>Segoe UI Light</FontFamily>
                       <FontSize>24pt</FontSize>
@@ -144,7 +144,7 @@
             </Paragraphs>
             <rd:DefaultName>textbox1</rd:DefaultName>
             <Height>0.43in</Height>
-            <Width>5in</Width>
+            <Width>10.17708in</Width>
             <Style>
               <PaddingLeft>2pt</PaddingLeft>
               <PaddingRight>2pt</PaddingRight>
@@ -468,7 +468,7 @@
         <Height>1.57in</Height>
         <Style />
       </Body>
-      <Width>5in</Width>
+      <Width>10.17708in</Width>
       <Page>
         <LeftMargin>1in</LeftMargin>
         <RightMargin>1in</RightMargin>

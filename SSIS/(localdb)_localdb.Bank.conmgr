@@ -7,6 +7,6 @@
     <DTS:ConnectionManager
       DTS:ConnectRetryCount="1"
       DTS:ConnectRetryInterval="5"
-      DTS:ConnectionString="Data Source=Win10;Initial Catalog=Bank;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-SSIS-{A1145729-E510-4AFE-8466-D172F29028ED}(localdb)\localdb.Bank;" />
+      DTS:ConnectionString="Data Source=localhost;Initial Catalog=Bank;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-SSIS-{A1145729-E510-4AFE-8466-D172F29028ED}(localdb)\localdb.Bank;" />
   </DTS:ObjectData>
 </DTS:ConnectionManager>

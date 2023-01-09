@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">R3PIX-PC</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2OAFNI901Ei252vy3/4KPAAAAAACAAAAAAAQZgAAAAEAACAAAACjFEwzcc2LdR+R7M7e6FL3xIkRc6VK0BbgLtWdMn14igAAAAAOgAAAAAIAACAAAABCM83vsU01uam+PczABd19rFu/jD2NMoSJL1R0IXT3l5AAAADQwcng3UxzreLN7k4vbPaik2orOYmnvSOupRG3QGpP05hNT0eXDz5px/N4jzuvuFVhq2W7NB2zwTSBY7VkxrmboruUZ7EtS1KpY1xQu+YaYZvoYbfs77BbMNwLc9H/W+vOQO4iSYhBDgnc25lLiAs6SGPC6ZuTCGrhXjhex26nauQ1OYI+yDpXmlNR4Dv021VAAAAAKXdoBgdOExkpGWJkwQHjIUQxz4OPIZtHniPnVBphrTzPuO/5kCIIa8YYWp445Nf4iyw08cCiWq/sDJsY9C3u7g==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2ptYnsF+bUqzgdoy6v1oZQAAAAACAAAAAAAQZgAAAAEAACAAAAAA+jLNcN0hsugq0w8+wAKSHYujJMCWzWdewPGd5HSjhQAAAAAOgAAAAAIAACAAAAAvfIAoiXcvv35t4SvC4owVxuxF4rKPAFIgQkX1Wfl+8JAAAADEnc95CC6XEWawLH3QfYmYiadn062x6O1tWQb3TJ3LrhxrN4iTxFlWpjaXpwoyT3lyDN+tRUnBvtfQY7HMUR7c5WWZP4ITkMxYdvBXWoxlE7GbFaqpAMUBvkLNOXF7OPuy1giEN+9ZO548PdW5s1sGymNfml9IGWz+GOa69b8Ld+Nw6bYTRfm79Vdyh+JuCWVAAAAAL3cLsxPCJps8E/2E4OZYHiInBEM1VeEjrSEKUQVTd2zeX/xmsJsRRuoPatyR9CpsOu0GZP0zyGUHApBpxZEzcw==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -64,7 +64,7 @@
                 <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="Value">Data Source=Win10;Initial Catalog=Bank;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-SSIS-{A1145729-E510-4AFE-8466-D172F29028ED}(localdb)\localdb.Bank;</SSIS:Property>
+                <SSIS:Property SSIS:Name="Value">Data Source=localhost;Initial Catalog=Bank;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-SSIS-{A1145729-E510-4AFE-8466-D172F29028ED}(localdb)\localdb.Bank;</SSIS:Property>
                 <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
               </SSIS:Properties>
             </SSIS:Parameter>
@@ -168,7 +168,7 @@
                 <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="Value">Win10</SSIS:Property>
+                <SSIS:Property SSIS:Name="Value">localhost</SSIS:Property>
                 <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
               </SSIS:Properties>
             </SSIS:Parameter>
@@ -194,10 +194,10 @@
                 <SSIS:Property SSIS:Name="Name">Package1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">38</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">40</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{B311721E-094A-431E-B8C0-91919A52B751}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{64278A4A-A517-453E-A35C-087D1FEC098B}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>

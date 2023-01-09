@@ -125,7 +125,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>PodsumowanieTransakcjiPoWalucie</Value>
+                    <Value>Podsumowanie Transakcji Po Walucie</Value>
                     <Style>
                       <FontFamily>Segoe UI Light</FontFamily>
                       <FontSize>24pt</FontSize>
@@ -138,7 +138,7 @@
             </Paragraphs>
             <rd:DefaultName>textbox1</rd:DefaultName>
             <Height>0.43in</Height>
-            <Width>5in</Width>
+            <Width>5.67708in</Width>
             <Style>
               <PaddingLeft>2pt</PaddingLeft>
               <PaddingRight>2pt</PaddingRight>

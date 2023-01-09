@@ -137,7 +137,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>WydatkiDzienneKlinetowWKrajuPoKoszyku</Value>
+                    <Value>Wydatki Dzienne Klinetow W Kraju Po Koszyku</Value>
                     <Style>
                       <FontFamily>Segoe UI Light</FontFamily>
                       <FontSize>24pt</FontSize>
@@ -150,7 +150,7 @@
             </Paragraphs>
             <rd:DefaultName>textbox1</rd:DefaultName>
             <Height>0.43in</Height>
-            <Width>5in</Width>
+            <Width>10.69792in</Width>
             <Style>
               <PaddingLeft>2pt</PaddingLeft>
               <PaddingRight>2pt</PaddingRight>
@@ -691,7 +691,7 @@
         <Height>1.78in</Height>
         <Style />
       </Body>
-      <Width>5in</Width>
+      <Width>10.69792in</Width>
       <Page>
         <LeftMargin>1in</LeftMargin>
         <RightMargin>1in</RightMargin>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns:df="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition/defaultfontfamily" MustUnderstand="df">
+<Report MustUnderstand="df" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns:df="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition/defaultfontfamily">
   <df:DefaultFontFamily>Segoe UI</df:DefaultFontFamily>
   <AutoRefresh>0</AutoRefresh>
   <DataSources>
@@ -168,7 +168,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>RocznyPrzeplywPieniedzyMiedzyKontami</Value>
+                    <Value>Roczny Przeplyw Pieniedzy Miedzy Kontami</Value>
                     <Style>
                       <FontFamily>Segoe UI Light</FontFamily>
                       <FontSize>24pt</FontSize>
@@ -181,6 +181,7 @@
             </Paragraphs>
             <rd:DefaultName>textbox1</rd:DefaultName>
             <Height>0.43in</Height>
+            <Width>6.83333in</Width>
             <Style>
               <PaddingLeft>2pt</PaddingLeft>
               <PaddingRight>2pt</PaddingRight>
@@ -222,6 +223,7 @@
                               </Paragraphs>
                               <rd:DefaultName>Year</rd:DefaultName>
                               <Height>0.27in</Height>
+                              <Width>5in</Width>
                               <Style>
                                 <FontFamily />
                                 <PaddingLeft>2pt</PaddingLeft>
@@ -240,7 +242,7 @@
                                     <Width>1in</Width>
                                   </TablixColumn>
                                   <TablixColumn>
-                                    <Width>1in</Width>
+                                    <Width>1.32292in</Width>
                                   </TablixColumn>
                                   <TablixColumn>
                                     <Width>1in</Width>
@@ -272,8 +274,6 @@
                                               </Paragraph>
                                             </Paragraphs>
                                             <rd:DefaultName>textbox2</rd:DefaultName>
-                                            <Height>0.22in</Height>
-                                            <Width>1in</Width>
                                             <Style>
                                               <Border>
                                                 <Color>LightGrey</Color>
@@ -315,8 +315,6 @@
                                               </Paragraph>
                                             </Paragraphs>
                                             <rd:DefaultName>textbox4</rd:DefaultName>
-                                            <Height>0.22in</Height>
-                                            <Width>1in</Width>
                                             <Style>
                                               <Border>
                                                 <Color>LightGrey</Color>
@@ -342,7 +340,7 @@
                                               <Paragraph>
                                                 <TextRuns>
                                                   <TextRun>
-                                                    <Value>Account Type Name</Value>
+                                                    <Value>Source Name</Value>
                                                     <Style>
                                                       <FontFamily />
                                                       <FontSize>11pt</FontSize>
@@ -355,8 +353,6 @@
                                               </Paragraph>
                                             </Paragraphs>
                                             <rd:DefaultName>textbox5</rd:DefaultName>
-                                            <Height>0.22in</Height>
-                                            <Width>1in</Width>
                                             <Style>
                                               <Border>
                                                 <Color>LightGrey</Color>
@@ -382,7 +378,7 @@
                                               <Paragraph>
                                                 <TextRuns>
                                                   <TextRun>
-                                                    <Value>Account Type Name2</Value>
+                                                    <Value>Destination Name</Value>
                                                     <Style>
                                                       <FontFamily />
                                                       <FontSize>11pt</FontSize>
@@ -395,8 +391,6 @@
                                               </Paragraph>
                                             </Paragraphs>
                                             <rd:DefaultName>textbox6</rd:DefaultName>
-                                            <Height>0.22in</Height>
-                                            <Width>1in</Width>
                                             <Style>
                                               <Border>
                                                 <Color>LightGrey</Color>
@@ -441,8 +435,6 @@
                                               </Paragraph>
                                             </Paragraphs>
                                             <rd:DefaultName>CountryName</rd:DefaultName>
-                                            <Height>0.21in</Height>
-                                            <Width>1in</Width>
                                             <Style>
                                               <Border>
                                                 <Color>LightGrey</Color>
@@ -482,8 +474,6 @@
                                               </Paragraph>
                                             </Paragraphs>
                                             <rd:DefaultName>textbox7</rd:DefaultName>
-                                            <Height>0.21in</Height>
-                                            <Width>1in</Width>
                                             <Style>
                                               <Border>
                                                 <Color>LightGrey</Color>
@@ -523,8 +513,6 @@
                                               </Paragraph>
                                             </Paragraphs>
                                             <rd:DefaultName>textbox8</rd:DefaultName>
-                                            <Height>0.21in</Height>
-                                            <Width>1in</Width>
                                             <Style>
                                               <Border>
                                                 <Color>LightGrey</Color>
@@ -564,8 +552,6 @@
                                               </Paragraph>
                                             </Paragraphs>
                                             <rd:DefaultName>textbox9</rd:DefaultName>
-                                            <Height>0.21in</Height>
-                                            <Width>1in</Width>
                                             <Style>
                                               <Border>
                                                 <Color>LightGrey</Color>
@@ -607,8 +593,6 @@
                                               </Paragraph>
                                             </Paragraphs>
                                             <rd:DefaultName>textbox3</rd:DefaultName>
-                                            <Height>0.21in</Height>
-                                            <Width>1in</Width>
                                             <Style>
                                               <Border>
                                                 <Color>LightGrey</Color>
@@ -642,8 +626,6 @@
                                               </Paragraph>
                                             </Paragraphs>
                                             <rd:DefaultName>Amount</rd:DefaultName>
-                                            <Height>0.21in</Height>
-                                            <Width>1in</Width>
                                             <Style>
                                               <Border>
                                                 <Color>LightGrey</Color>
@@ -680,8 +662,6 @@
                                               </Paragraph>
                                             </Paragraphs>
                                             <rd:DefaultName>AccountTypeName</rd:DefaultName>
-                                            <Height>0.21in</Height>
-                                            <Width>1in</Width>
                                             <Style>
                                               <Border>
                                                 <Color>LightGrey</Color>
@@ -718,8 +698,6 @@
                                               </Paragraph>
                                             </Paragraphs>
                                             <rd:DefaultName>AccountTypeName2</rd:DefaultName>
-                                            <Height>0.21in</Height>
-                                            <Width>1in</Width>
                                             <Style>
                                               <Border>
                                                 <Color>LightGrey</Color>
@@ -788,6 +766,9 @@
                               </TablixRowHierarchy>
                               <DataSetName>DataSet1</DataSetName>
                               <Top>0.5in</Top>
+                              <Height>0.64in</Height>
+                              <Width>4.32292in</Width>
+                              <ZIndex>1</ZIndex>
                               <Style>
                                 <FontFamily />
                               </Style>
@@ -833,6 +814,9 @@
               <BreakLocation>End</BreakLocation>
             </PageBreak>
             <Top>0.43in</Top>
+            <Height>1.14in</Height>
+            <Width>5in</Width>
+            <ZIndex>1</ZIndex>
             <Style>
               <FontSize>14pt</FontSize>
             </Style>
@@ -841,7 +825,7 @@
         <Height>1.57in</Height>
         <Style />
       </Body>
-      <Width>5in</Width>
+      <Width>7.17708in</Width>
       <Page>
         <LeftMargin>1in</LeftMargin>
         <RightMargin>1in</RightMargin>
@@ -859,6 +843,6 @@
   </ReportParametersLayout>
   <Language>pl-PL</Language>
   <ConsumeContainerWhitespace>true</ConsumeContainerWhitespace>
-  <rd:ReportUnitType>Invalid</rd:ReportUnitType>
+  <rd:ReportUnitType>Inch</rd:ReportUnitType>
   <rd:ReportID>49db1cd0-b44e-4870-93f6-348469953be4</rd:ReportID>
 </Report>
